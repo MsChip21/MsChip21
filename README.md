@@ -1,8 +1,23 @@
-### Hey world 😐
----
+### Hey world 
 
-### Im TaHa !
-mohammad taha dashti
+I am a human!
+===
+Developer, game maker , user interface designer, And other things
+
+---
+### It can be said about my abilities:
+
+- **Game development** 
+- Windows application
+- Ui designer
+- site designer
+- Editor
+- null
+
+my interest
+===
+- Loves non-verbal music
+
 
 
 
