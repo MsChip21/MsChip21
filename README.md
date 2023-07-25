@@ -11,29 +11,24 @@ Developer, game maker , user interface designer, And other things
 - Windows application
 - Ui designer
 - site designer
-- Editor
-- null
+- A little Editor
 
 my interest
 ===
-- Loves non-verbal music
-- Computer lover
-- Code lover
-- Love the graphics
-- I love anime
-- The apocalyptic genre
-- i love chill musics
-- Happy :)
-- null
+- Music
+- Code 
+- Anime
+- Video game
+- Board game 
+- A few more naps
 
 ---
 
 ### Our social networks :
-- Telegram : @it_is_Program
+- Telegram : @TahaDaahti_GD
 - Email : mohammadtahadashti1221@gmail.com
-- phone number : I dont give
+- phone number : 0902347687* ( Find the last number )
 - Eitaa : @Livay_Ackerman
-- null
 
 
 # End
