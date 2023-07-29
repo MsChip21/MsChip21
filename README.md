@@ -1,11 +1,9 @@
-### Hey world 
-
-I am a human!
+I am a human !
 ===
-Developer, game maker , user interface designer, And other things
+Developer, Game developer , UI designer, And other things
 
 ---
-### It can be said about my abilities:
+### My abilities: 
 
 - **Game development** 
 - Windows application
@@ -13,7 +11,7 @@ Developer, game maker , user interface designer, And other things
 - site designer
 - A little Editor
 
-my interest
+## My favorites
 ===
 - Music
 - Code 
@@ -24,11 +22,13 @@ my interest
 
 ---
 
-### Our social networks :
+### My ID in messengers :
 - Telegram : @TahaDaahti_GD
+- Eitaa : @TahaDaahti_GD
+- Virasty : @TahaDashti
 - Email : mohammadtahadashti1221@gmail.com
 - phone number : 0902347687* ( Find the last number )
-- Eitaa : @Livay_Ackerman
+- 
 
 
-# End
+# 💠
