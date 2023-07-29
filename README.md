@@ -1,4 +1,4 @@
-I am a human !
+Solo Developer
 ===
 Developer, Game developer , UI designer, And other things
 
@@ -11,8 +11,10 @@ Developer, Game developer , UI designer, And other things
 - site designer
 - A little Editor
 
-## My favorites
-===
+---
+
+### My favorites:
+
 - Music
 - Code 
 - Anime
@@ -22,7 +24,8 @@ Developer, Game developer , UI designer, And other things
 
 ---
 
-### My ID in messengers :
+### My ID in messengers:
+
 - Telegram : @TahaDaahti_GD
 - Eitaa : @TahaDaahti_GD
 - Virasty : @TahaDashti
