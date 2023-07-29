@@ -29,5 +29,3 @@ Developer, Game developer , UI designer, And other things
 - Telegram : @TahaDaahti_GD
 - Eitaa : @TahaDaahti_GD
 - Virasty : @TahaDashti
-
-# 💠
